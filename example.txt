@@ -1,0 +1,3 @@
+Hi....
+
+This is a sample text file for Swapnil Adak(M23CSA534) assignment-2 for ML-OPS.
